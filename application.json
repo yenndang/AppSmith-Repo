@@ -7,6 +7,10 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Student Resources",
+      "isDefault": false
     }
   ],
   "viewMode": false,
