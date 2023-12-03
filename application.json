@@ -11,6 +11,10 @@
     {
       "id": "Student Resources",
       "isDefault": false
+    },
+    {
+      "id": "Mentor Resources",
+      "isDefault": false
     }
   ],
   "viewMode": false,
