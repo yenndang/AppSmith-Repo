@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 790,
+          "bottomRow": 1220,
           "containerStyle": "none",
           "snapRows": 78,
           "parentRowSpace": 1,
@@ -25,7 +25,55 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Recruiter_get_college_info",
+              "name": "get_college_info",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "CollegeSearch.text"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Recruiter_get_students",
+              "name": "get_students",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "MajorSearch.text"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Recruiter_get_mentor_college",
+              "name": "get_mentor_college",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Number(user_select.selectedOptionValue)"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Recruiter_get_pro_profile",
+              "name": "get_pro_profile",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Number(user_select.selectedOptionValue)"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Recruiter",
         "deleted": false,
