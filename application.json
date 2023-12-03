@@ -5,7 +5,15 @@
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Student",
+      "isDefault": false
+    },
+    {
+      "id": "Mentor",
+      "isDefault": false
+    },
+    {
+      "id": "Recruiter",
       "isDefault": false
     }
   ],
