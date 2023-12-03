@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 490,
           "containerStyle": "none",
           "snapRows": 56,
           "parentRowSpace": 1,
@@ -28,8 +28,16 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Student Resources_Api1",
-              "name": "Api1",
+              "id": "Student Resources_interview_resources",
+              "name": "interview_resources",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Student Resources_soft_skill_resources",
+              "name": "soft_skill_resources",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Api1",
+    "name": "soft_skill_resources",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -53,7 +53,7 @@
     "userPermissions": [],
     "createdAt": "2023-12-03T20:42:36Z"
   },
-  "id": "Student Resources_Api1",
+  "id": "Student Resources_soft_skill_resources",
   "deleted": false,
   "gitSyncId": "656ce7f528245e39cae5a130_656ce83c28245e39cae5a13f"
 }
