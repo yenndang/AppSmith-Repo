@@ -1,12 +1,8 @@
 {
   "pages": [
     {
-      "id": "Page1",
-      "isDefault": true
-    },
-    {
       "id": "Student",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Mentor",

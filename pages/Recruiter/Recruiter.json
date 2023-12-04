@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1220,
+          "bottomRow": 1270,
           "containerStyle": "none",
           "snapRows": 78,
           "parentRowSpace": 1,
@@ -61,6 +61,16 @@
             }
           ],
           [
+            {
+              "id": "Recruiter_get_mentor",
+              "name": "get_mentor",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Number(user_select.selectedOptionValue)"
+              ],
+              "timeoutInMillisecond": 10000
+            },
             {
               "id": "Recruiter_get_pro_profile",
               "name": "get_pro_profile",

@@ -6,7 +6,7 @@
     "labelWidth": 5,
     "type": "SELECT_WIDGET",
     "serverSideFiltering": false,
-    "defaultOptionValue": "1",
+    "defaultOptionValue": "2",
     "animateLoading": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
@@ -39,7 +39,7 @@
     "parentColumnSpace": 15.953125,
     "dynamicTriggerPathList": [{"key": "onOptionChange"}],
     "labelPosition": "Top",
-    "sourceData": "[\n  {\n    \"label\": \"James\",\n    \"value\": \"1\"\n  },\n  {\n    \"label\": \"Joe\",\n    \"value\": \"2\"\n  }\n]",
+    "sourceData": "[\n  {\n    \"label\": \"Gilbert\",\n    \"value\": \"6\"\n  },\n  {\n    \"label\": \"Britta\",\n    \"value\": \"2\"\n  }\n]",
     "key": "d16ugwmywm",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
@@ -55,6 +55,6 @@
     "responsiveBehavior": "fill",
     "mobileLeftColumn": 2,
     "maxDynamicHeight": 9000,
-    "onOptionChange": "{{get_pro_profile.run();\nget_profile_not_used_rn.run();\nget_mentor_college.run()}}",
+    "onOptionChange": "{{get_pro_profile.run();\nget_profile_not_used_rn.run();\nget_mentor_college.run();\nget_mentor.run()}}",
     "minDynamicHeight": 4
 }

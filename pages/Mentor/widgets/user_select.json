@@ -12,7 +12,7 @@
         {"key": "accentColor"},
         {"key": "borderRadius"}
     ],
-    "options": "[\n  {\n    \"label\": \"James\",\n    \"value\": \"1\"\n  },\n  {\n    \"label\": \"Jane\",\n    \"value\": \"2\"\n  },\n  {\n    \"label\": \"Stella\",\n    \"value\": \"3\"\n  }\n]",
+    "options": "[\n  {\n    \"label\": \"Esme\",\n    \"value\": \"1\"\n  },\n  {\n    \"label\": \"Roscoe\",\n    \"value\": \"4\"\n  },\n  {\n    \"label\": \"Clee\",\n    \"value\": \"3\"\n  }\n]",
     "placeholderText": "Select option",
     "isDisabled": false,
     "isRequired": false,

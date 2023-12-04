@@ -48,6 +48,16 @@
                 "Number(user_select.selectedOptionValue)"
               ],
               "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Mentor_get_profile",
+              "name": "get_profile",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "Number(get_mentor.data[0].p_id)"
+              ],
+              "timeoutInMillisecond": 10000
             }
           ],
           [
@@ -70,16 +80,6 @@
               "pluginType": "API",
               "jsonPathKeys": [
                 "get_mentor.data[0].m_id"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Mentor_get_profile",
-              "name": "get_profile",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "Number(get_mentor.data[0].p_id)"
               ],
               "timeoutInMillisecond": 10000
             }

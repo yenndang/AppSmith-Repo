@@ -12,7 +12,7 @@
         {"key": "accentColor"},
         {"key": "borderRadius"}
     ],
-    "options": "[\n  {\n    \"label\": \"John\",\n    \"value\": \"1\"\n  },\n  {\n    \"label\": \"Jane\",\n    \"value\": \"2\"\n  },\n  {\n    \"label\": \"Stella\",\n    \"value\": \"3\"\n  }\n]",
+    "options": "[\n  {\n    \"label\": \"Anne\",\n    \"value\": \"1\"\n  },\n  {\n    \"label\": \"Abagail\",\n    \"value\": \"2\"\n  },\n  {\n    \"label\": \"Casandra\",\n    \"value\": \"3\"\n  }\n]",
     "placeholderText": "Select Option",
     "isDisabled": false,
     "isRequired": false,
@@ -31,7 +31,7 @@
         "dropdown",
         "singleselecttree"
     ],
-    "bottomRow": 6,
+    "bottomRow": 8,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 48,
