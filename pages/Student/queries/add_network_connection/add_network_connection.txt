@@ -1,3 +1,0 @@
-{{
-   {"colleagues": get_network.data.map((data) => data.s_id).concat([Number(conn_input.text)])}
-}}
