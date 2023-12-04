@@ -1,0 +1,8 @@
+{{
+	{
+		...get_profile.data[0],
+		"Phone": phone_input.text,
+		"Background": background_input.text,
+		"Email": email_input.text
+	}
+}}

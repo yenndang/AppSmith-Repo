@@ -8,6 +8,13 @@
       "id": "Recruiter",
       "isDefault": false
     }
+      "id": "Student",
+      "isDefault": false
+    },
+    {
+      "id": "Mentor",
+      "isDefault": false
+    }
   ],
   "viewMode": false,
   "appIsExample": false,
