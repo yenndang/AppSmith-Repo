@@ -1,3 +1,0 @@
-{{
-	{lab_name: lab_name.text, lab_type: lab_type.text}
-}}
