@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1540,
+          "bottomRow": 1020,
           "containerStyle": "none",
           "snapRows": 78,
           "parentRowSpace": 1,
@@ -48,32 +48,12 @@
                 "Number(user_select.selectedOptionValue)"
               ],
               "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Mentor_get_schedule_by_id",
-              "name": "get_schedule_by_id",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "sched_id.text"
-              ],
-              "timeoutInMillisecond": 10000
             }
           ],
           [
             {
               "id": "Mentor_get_accred",
               "name": "get_accred",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "get_mentor.data[0].m_id"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Mentor_get_workplace",
-              "name": "get_workplace",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
