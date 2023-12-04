@@ -17,6 +17,14 @@
       "isDefault": false
     },
     {
+      "id": "Student Resources",
+      "isDefault": false
+    },
+    {
+      "id": "Mentor Resources",
+      "isDefault": false
+    },
+    {
       "id": "CollegePage",
       "isDefault": false
     }

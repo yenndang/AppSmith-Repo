@@ -1,0 +1,5 @@
+{
+	'Title' : {{Form1.data.Input1}},
+  'Content' : {{Form1.data.Input2}},
+  'Format' : {{Form1.data.Input3}},
+}
