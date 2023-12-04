@@ -9,6 +9,13 @@
       "isDefault": false
     },
     {
+      "id": "Mentor",
+      "isDefault": false
+    },
+    {
+      "id": "Recruiter",
+      "isDefault": false
+    },
       "id": "CollegePage",
       "isDefault": false
     }
