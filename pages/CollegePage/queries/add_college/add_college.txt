@@ -1,3 +1,0 @@
-{{
-	{college_name: college_name_post.text, ranking: ranking.text, appreqs:application_reqs.text}
-}}

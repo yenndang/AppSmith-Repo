@@ -1,0 +1,4 @@
+{
+	'Content': {{Input5.text}},
+	'Format': {{Input6.text}}
+}

@@ -5,11 +5,23 @@
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Student",
       "isDefault": false
     },
     {
-      "id": "CollegePage",
+      "id": "Mentor",
+      "isDefault": false
+    },
+    {
+      "id": "Recruiter",
+      "isDefault": false
+    },
+    {
+      "id": "Student Resources",
+      "isDefault": false
+    },
+    {
+      "id": "Mentor Resources",
       "isDefault": false
     }
   ],
