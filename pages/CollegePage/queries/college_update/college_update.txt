@@ -1,3 +1,0 @@
-{{
-	{"ranking": new_ranking.text, "appreqs": app_reqs.text}
-}}
