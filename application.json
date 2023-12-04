@@ -5,6 +5,9 @@
       "isDefault": true
     },
     {
+      "id": "Recruiter",
+      "isDefault": false
+    }
       "id": "Student",
       "isDefault": false
     },
