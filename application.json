@@ -23,6 +23,10 @@
     {
       "id": "Mentor Resources",
       "isDefault": false
+    },
+    {
+      "id": "CollegePage",
+      "isDefault": false
     }
   ],
   "viewMode": false,
