@@ -11,6 +11,10 @@
     {
       "id": "Mentor",
       "isDefault": false
+    },
+    {
+      "id": "Recruiter",
+      "isDefault": false
     }
   ],
   "viewMode": false,
